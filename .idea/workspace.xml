@@ -24,10 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02ca122f-ccf7-4133-9515-3c6c1d5508fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="02ca122f-ccf7-4133-9515-3c6c1d5508fb" name="Default Changelist" comment="conf. for heroku (req.txt)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607058400785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="conf. for heroku (req.txt)">
+      <created>1607060813058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607060813058</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,19 +84,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="conf. for heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="conf. for heroku" />
+    <MESSAGE value="conf. for heroku (req.txt)" />
+    <option name="LAST_COMMIT_MESSAGE" value="conf. for heroku (req.txt)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="14" key="SettingsEditor" timestamp="1607060638945">
+    <state x="184" y="14" key="SettingsEditor" timestamp="1607073106327">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607060638945" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1607058414984">
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607073106327" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1607060825073">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607058414984" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607060825073" />
   </component>
 </project>
