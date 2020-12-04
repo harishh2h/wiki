@@ -1,75 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="118fd334-36ee-4d5b-82dc-2e192336520f" name="Default Changelist" comment=" first commit" />
+    <list default="true" id="02ca122f-ccf7-4133-9515-3c6c1d5508fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entries/html.md" beforeDir="false" afterPath="$PROJECT_DIR$/entries/html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1kxT5LJxCx8699V6WCF29eW7NDo" />
+  <component name="ProjectId" id="1lB1zblqgacLSV1LeIE6MpXBeci" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\cs50_web\wiki" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="118fd334-36ee-4d5b-82dc-2e192336520f" name="Default Changelist" comment="" />
-      <created>1606641058324</created>
+      <changelist id="02ca122f-ccf7-4133-9515-3c6c1d5508fb" name="Default Changelist" comment="" />
+      <created>1607055970977</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606641058324</updated>
+      <updated>1607055970977</updated>
     </task>
-    <task id="LOCAL-00001" summary=" first commit">
-      <created>1606993699828</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1606993699828</updated>
-    </task>
-    <task id="LOCAL-00002" summary=" first commit">
-      <created>1606993956813</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1606993956813</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -82,30 +54,14 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value=" first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value=" first commit" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="129" y="56" key="DiffContextDialog" timestamp="1606993824320">
+    <state x="184" y="14" key="SettingsEditor" timestamp="1607056183424">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1606993824320" />
-    <state x="279" y="0" width="1000" height="708" key="SettingsEditor" timestamp="1606974386755">
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607056183424" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1607058300853">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="279" y="0" width="1000" height="708" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1606974386755" />
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1606995023427">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1606995023427" />
-    <state x="500" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606994445258">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="500" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1606994445258" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1606994648140">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1606994648140" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607058300853" />
   </component>
 </project>
